@@ -5,7 +5,9 @@
 
 # CRM System
 
-A full-stack CRM application with React frontend and Node/Express backend.
+A Full-Stack CRM System with Role-Based Access Control
+
+
 
 ## Tech Stack
 
@@ -13,6 +15,25 @@ A full-stack CRM application with React frontend and Node/Express backend.
 - **Backend:** Node.js + Express
 - **Database:** MySQL
 - **Auth:** JWT + bcrypt
+
+## 3 User Roles: Agent, Team Lead, Admin - each with tailored dashboards and permissions
+
+## Key Features:
+- Auto-assignment of tickets to least-loaded Team Leads
+- Ticket escalation system with load balancing
+- Ticket lifecycle management (create, resolve, escalate, close)
+- User administration with activate/deactivate functionality
+- Profile management with password changes
+
+## Role Workflow:
+- Agents: Create tickets (auto-assigned to TL)
+- Team Leads: Manage team tickets, escalate to other TLs
+- Admin: Full system visibility, user management, manual ticket assignment
+
+## Highlights:
+- Load-balancing ticket routing
+- Clean RBAC architecture
+- Vanilla CSS styling
 
 ## Prerequisites
 
