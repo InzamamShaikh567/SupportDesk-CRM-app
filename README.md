@@ -1,3 +1,8 @@
+<img width="1920" height="1080" alt="image_2026-05-19_01-15-38" src="https://github.com/user-attachments/assets/307e34db-fe65-4868-a66f-205551daa89a" />
+<img width="1920" height="1080" alt="image_2026-05-19_01-17-11" src="https://github.com/user-attachments/assets/34c2335d-31f1-4370-8873-2f7be15d762e" />
+
+<img width="1920" height="1080" alt="image_2026-05-19_01-17-27" src="https://github.com/user-attachments/assets/8fc9fdc4-b3ae-495a-8f16-580a232737bd" />
+
 # CRM System
 
 A full-stack CRM application with React frontend and Node/Express backend.
@@ -93,3 +98,10 @@ All passwords: `password123`
 - `GET /api/users` - Admin: all users
 - `GET /api/users/agents` - TL/Admin: all agents
 - `GET /api/users/tls` - TL/Admin: all TLs
+
+
+
+
+
+
+
